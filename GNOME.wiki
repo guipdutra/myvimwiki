@@ -1,0 +1,2 @@
+= GNOME =
+  * Run  gsettings set org.gnome.shell.app-switcher current-workspace-only true to enable alt-tab only in the workspace
